@@ -4,6 +4,7 @@
 @function fluid($max: 64, $min: 18, $isEndOfLaptop: false) {
   $maxViewportWidth: $container-desktop-width;
   $minViewportWidth: 390;
+
   @if ($isEndOfLaptop) {
     $minViewportWidth: $container-laptop-width;
   }
