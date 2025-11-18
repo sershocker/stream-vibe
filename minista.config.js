@@ -26,7 +26,7 @@ export default defineConfig({
         aspect: undefined,
         background: undefined,
         fit: "cover",
-        position: "centre",
+        position: "center",
       },
     },
     svgr: {
@@ -37,7 +37,7 @@ export default defineConfig({
       outDir: "assets/images",
       outName: "[dirname]",
       svgstoreOptions: {
-        cleanSymbols: ["fill", "stroke", "stroke-linejoin", "stroke-width"],
+        cleanSymbols: ["fill", "stroke"],
       },
     },
     fonts: {
@@ -72,7 +72,7 @@ export default defineConfig({
   },
   css: {
     modules: {
-      scopeBehaviour: "local",
+      scopeBehaviour: "global",
       globalModulePaths: [],
       generateScopedName: undefined,
       hashPrefix: "",
@@ -141,5 +141,21 @@ export default defineConfig({
       indent_size: 2,
     },
   },
-  vite: {},
+  vite: {
+
+      // port: 3000,
+      // host: "0.0.0.0",
+      //
+      // server: {
+      //     port: 3000,
+      //     host: "0.0.0.0",
+      //     // host: "127.0.0.1",
+      // },
+      //
+      // preview: {
+      //
+      //     host: "192.168.100.129",
+      //     port: 4139,
+      // },
+  },
 })

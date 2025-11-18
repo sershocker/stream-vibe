@@ -1,1 +1,3 @@
-console.log("прив")
+import OverlayMenu from "@/modules/OverlayMenu";
+
+new OverlayMenu()
