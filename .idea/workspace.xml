@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="hero section completed">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/hero/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Hero/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/stream-vibe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/facebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/linked-in.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/linked-in.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/notifications.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/notifications.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Header/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX Component Folder with styles.jsx.child.0" />
+        <option value="JSX Component Folder with styles.jsx.child.1" />
+        <option value="JSX Component Folder with styles" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sershocker&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sershocker/stream-vibe.git&quot;,
+    &quot;accountId&quot;: &quot;396ae4d7-8e59-4795-b605-2cae1785d869&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35TvW6i335gHcCk59ioFEicxyeG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.127.0.0.1:8080.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.localhost:5173.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksa27/WebstormProjects/stream-vibe/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ksa27\WebstormProjects\stream-vibe\public" />
+      <recent name="C:\Users\ksa27\WebstormProjects\stream-vibe\src\layouts\Footer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localhost:5173">
+    <configuration name="127.0.0.1:8080" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1:8080/">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:5173" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5173/">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="preview" />
+      </scripts>
+      <arguments value="port: 8000" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:5173" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="JavaScript Debug.127.0.0.1:8080" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="" />
+      <created>1763146905231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763146905231</updated>
+      <workItem from="1763146906727" duration="1079000" />
+      <workItem from="1763148013454" duration="50000" />
+      <workItem from="1763148079972" duration="228000" />
+      <workItem from="1763204532740" duration="15388000" />
+      <workItem from="1763371010089" duration="21755000" />
+      <workItem from="1763452794969" duration="21048000" />
+      <workItem from="1763541869715" duration="22401000" />
+      <workItem from="1763574355359" duration="3647000" />
+    </task>
+    <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
+      <option name="closed" value="true" />
+      <created>1763224904270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763224904270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="header completed">
+      <option name="closed" value="true" />
+      <created>1763488407775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763488407775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="footer completed">
+      <option name="closed" value="true" />
+      <created>1763547280108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763547280108</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hero section completed">
+      <option name="closed" value="true" />
+      <created>1763572005660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763572005660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="variables, fonts, globals and configuration completed" />
+    <MESSAGE value="header completed" />
+    <MESSAGE value="footer completed" />
+    <MESSAGE value="hero section completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="hero section completed" />
+  </component>
+</project>

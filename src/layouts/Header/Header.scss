@@ -70,6 +70,10 @@
 
   }
 
+  &.is-fixed{
+    position: fixed;
+  }
+
   &__menu {
 
     border-radius: var(--border-radius-l);
