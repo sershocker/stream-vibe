@@ -4,39 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="hero section completed">
-      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/Slider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Section/Section.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Section/Section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Section/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/SliderCollection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Categories/categoryItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Categories/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/getParams.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="categories section completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/play.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/search.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minista.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/minista.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Section/Section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Section/Section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/SliderCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/SliderCollection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +146,7 @@
       <workItem from="1763578674834" duration="58000" />
       <workItem from="1763582598830" duration="750000" />
       <workItem from="1763628227585" duration="22105000" />
-      <workItem from="1763670825682" duration="904000" />
+      <workItem from="1763670825682" duration="6024000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -210,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763578224420</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="categories section completed">
+      <option name="closed" value="true" />
+      <created>1763671829363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763671829363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +210,7 @@
     <MESSAGE value="header completed" />
     <MESSAGE value="footer completed" />
     <MESSAGE value="hero section completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="hero section completed" />
+    <MESSAGE value="categories section completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="categories section completed" />
   </component>
 </project>

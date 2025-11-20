@@ -8,6 +8,31 @@ const defaultSliderParams = {
     slidesPerView: 5,
     slidesPerGroup: 5,
     spaceBetween: 30,
+    breakpoints:{
+        0: {
+            slidesPerView: 2,
+            slidesPerGroup: 1,
+            spaceBetween: 20,
+        },
+        481:{
+            slidesPerView: 3,
+            slidesPerGroup: 3,
+        },
+        768: {
+            slidesPerView: 4,
+            slidesPerGroup: 4,
+        },
+        1024: {
+            spaceBetween: 20,
+            slidesPerView: 5,
+            slidesPerGroup: 5,
+            allowTouchMove: false,
+        },
+        1441: {
+            spaceBetween: 30,
+            allowTouchMove: false,
+        }
+    }
 }
 const Slider = (props) => {
     const {
@@ -15,11 +40,15 @@ const Slider = (props) => {
         navigationTargetElementId = null,
         sliderParams = defaultSliderParams,
         className,
+        isBeyondTheViewportOnMobileS,
+        hasScrollbar = true,
     } = props
 
     return (
         <div
-            className="slider"
+            className={classNames("slider", {
+                "slider--beyond-the-viewport-on-mobiles": isBeyondTheViewportOnMobileS,
+            }) }
             data-js-slider={JSON.stringify({
                 sliderParams,
                 navigationTargetElementId,
@@ -35,11 +64,17 @@ const Slider = (props) => {
                 </ul>
             </div>
 
-            {!navigationTargetElementId &&
+            {!navigationTargetElementId && (
                 <SliderNavigation
                     className="slider-navigation"
                 />
-            }
+            )}
+            {hasScrollbar && (
+                <div
+                    className="slider__scrollbar visible-mobile"
+                    data-js-slider-scrollbar=""
+                />
+            )}
         </div>
     )
 }

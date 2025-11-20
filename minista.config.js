@@ -152,10 +152,8 @@ export default defineConfig({
       //     // host: "127.0.0.1",
       // },
       //
-      // preview: {
-      //
-      //     host: "192.168.100.129",
-      //     port: 4139,
-      // },
+      preview: {
+                host: "192.168.100.129",
+      },
   },
 })

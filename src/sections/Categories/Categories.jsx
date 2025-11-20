@@ -33,6 +33,7 @@ const Categories = (props) => {
             >
                 <Slider
                     navigationTargetElementId={sliderNavigationId}
+                    isBeyondTheViewportOnMobileS
                 >
                     {categoryItems.map((categoryItem, index) => (
                         <CategoryCard

@@ -14,4 +14,24 @@
       border-radius: var(--border-radius-m);
     }
   }
+
+  &__pagination{
+    display: flex;
+    column-gap: 3px;
+    align-items: center;
+
+    &-bullet{
+      width: 16px;
+      height: 4px;
+      background-color: var(--color-black-20);
+      border-radius: 100px;
+      transition-duration: var(--transition-duration-longer);
+
+      &.is-active{
+        width: 23px;
+        background-color: var(--color-red-45);
+      }
+    }
+  }
+
 }

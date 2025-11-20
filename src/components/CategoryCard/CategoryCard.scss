@@ -1,6 +1,6 @@
 .category-card {
   --categoryCardImagesGradientOpacity: 1;
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
   padding: fluid(30, 20);
   background-color: var(--color-black-10);
@@ -11,6 +11,10 @@
     color: var(--color-red-60);
     border-color: currentColor;
     --categoryCardImagesGradientOpacity: 0;
+  }
+
+  &:focus-visible{
+    outline-offset: -2px;
   }
 
   @include laptop {
