@@ -5,30 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="hero section completed">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/hero/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Hero/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stream-vibe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/facebook.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/linked-in.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/linked-in.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/icons/notifications.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/notifications.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CategoryCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/Slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slider/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Section/Section.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Section/Section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/SliderCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Categories/categoryItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Categories/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/icons/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/play.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/icons/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/search.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/icons/twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hero/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/global.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Header/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +46,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="JSX Component Folder with styles.jsx.child.0" />
         <option value="JSX Component Folder with styles.jsx.child.1" />
         <option value="JSX Component Folder with styles" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -79,6 +86,7 @@
   &quot;keyToString&quot;: {
     &quot;JavaScript Debug.127.0.0.1:8080.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.localhost:5173.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -154,7 +162,13 @@
       <workItem from="1763371010089" duration="21755000" />
       <workItem from="1763452794969" duration="21048000" />
       <workItem from="1763541869715" duration="22401000" />
-      <workItem from="1763574355359" duration="3647000" />
+      <workItem from="1763574355359" duration="3869000" />
+      <workItem from="1763578293430" duration="129000" />
+      <workItem from="1763578450692" duration="213000" />
+      <workItem from="1763578674834" duration="58000" />
+      <workItem from="1763582598830" duration="750000" />
+      <workItem from="1763628227585" duration="22105000" />
+      <workItem from="1763670825682" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -188,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763572005660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hero section completed">
+      <option name="closed" value="true" />
+      <created>1763578224420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763578224420</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

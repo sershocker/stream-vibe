@@ -9,6 +9,7 @@ const Hero = (props) => {
     const playButtonTitle = "Play Video"
     const titleId = "hero-title";
     return (
+        <>
         <section className="hero" aria-labelledby={titleId}>
             <div className="hero__pano">
                 <div className="hero__pano-inner container">
@@ -45,6 +46,7 @@ const Hero = (props) => {
                 </div>
             </div>
         </section>
+            </>
     )
 }
 
