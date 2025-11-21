@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="categories section completed">
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="slider component fixed">
+      <change afterPath="$PROJECT_DIR$/public/devices/VR-headsets.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/devices/gaming-consoles.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/devices/laptops.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/devices/smartTV.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/devices/smartphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/devices/tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeviceCard/DeviceCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeviceCard/DeviceCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeviceCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Grid/Grid.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Grid/Grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Grid/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Devices/Devices.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Devices/Devices.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Devices/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minista.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/minista.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layouts/Section/Section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Section/Section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/SliderCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/SliderCollection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Categories/Categories.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/getAttrNameFromSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +33,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="JSX Component Folder with styles.jsx.child.0" />
         <option value="JSX Component Folder with styles.jsx.child.1" />
         <option value="JSX Component Folder with styles" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -146,7 +155,8 @@
       <workItem from="1763578674834" duration="58000" />
       <workItem from="1763582598830" duration="750000" />
       <workItem from="1763628227585" duration="22105000" />
-      <workItem from="1763670825682" duration="6024000" />
+      <workItem from="1763670825682" duration="6166000" />
+      <workItem from="1763712457345" duration="4663000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -196,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763671829363</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="slider component fixed">
+      <option name="closed" value="true" />
+      <created>1763676986696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763676986696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +229,7 @@
     <MESSAGE value="footer completed" />
     <MESSAGE value="hero section completed" />
     <MESSAGE value="categories section completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="categories section completed" />
+    <MESSAGE value="slider component fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider component fixed" />
   </component>
 </project>
