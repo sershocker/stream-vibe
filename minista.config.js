@@ -154,6 +154,7 @@ export default defineConfig({
       //
       preview: {
                 host: "192.168.100.129",
+          port: 5173,
       },
   },
 })
