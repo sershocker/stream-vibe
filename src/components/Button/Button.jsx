@@ -9,7 +9,7 @@ const Button = (props) => {
         href,
         target,
         label,
-        mode = "",  //"" is default | "transparent" | "black-10
+        mode = "",  //"" is default | "transparent" | "black-10 | black-08
         isLabelHidden = false,
         iconName,
         iconPosition = 'before',    //"before" or "after"

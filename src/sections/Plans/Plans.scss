@@ -1,0 +1,10 @@
+.plans {
+  display: grid;
+  row-gap: 20px;
+  @include tablet-above {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+
+    column-gap: fluid-to-laptop(30, 20);
+  }
+}
