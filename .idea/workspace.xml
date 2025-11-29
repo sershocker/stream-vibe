@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="accordion component completed">
-      <change afterPath="$PROJECT_DIR$/src/components/PlanCard/PlanCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlanCard/PlanCard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlanCard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Plans/Plans.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Plans/Plans.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Plans/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard component Added">
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tabs/utils/getTabsElementsIdsFromTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/TabsCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getIdFromTitle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Grid/Grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Grid/Grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minista.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/minista.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Plans/Plans.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Plans/Plans.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +158,9 @@
       <workItem from="1764077584099" duration="5993000" />
       <workItem from="1764165063286" duration="4824000" />
       <workItem from="1764350994374" duration="3036000" />
-      <workItem from="1764354056104" duration="4300000" />
+      <workItem from="1764354056104" duration="4382000" />
+      <workItem from="1764407869239" duration="3016000" />
+      <workItem from="1764411932715" duration="13898000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -248,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764169357766</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="PlanCard component Added">
+      <option name="closed" value="true" />
+      <created>1764358757436</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764358757436</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +278,7 @@
     <MESSAGE value="device section completed" />
     <MESSAGE value="questions section completed" />
     <MESSAGE value="accordion component completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="accordion component completed" />
+    <MESSAGE value="PlanCard component Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlanCard component Added" />
   </component>
 </project>

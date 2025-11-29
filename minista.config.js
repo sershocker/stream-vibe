@@ -142,16 +142,6 @@ export default defineConfig({
     },
   },
   vite: {
-
-      // port: 3000,
-      // host: "0.0.0.0",
-      //
-      // server: {
-      //     port: 3000,
-      //     host: "0.0.0.0",
-      //     // host: "127.0.0.1",
-      // },
-      //
       preview: {
                 host: "192.168.100.129",
           port: 5173,
