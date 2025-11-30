@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard component Added">
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs/utils/getTabsElementsIdsFromTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/TabsCollection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/getIdFromTitle.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minista.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/minista.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Plans/Plans.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Plans/Plans.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/TabsCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/TabsCollection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +150,8 @@
       <workItem from="1764350994374" duration="3036000" />
       <workItem from="1764354056104" duration="4382000" />
       <workItem from="1764407869239" duration="3016000" />
-      <workItem from="1764411932715" duration="13898000" />
+      <workItem from="1764411932715" duration="14041000" />
+      <workItem from="1764528328963" duration="4454000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -258,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764358757436</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="PlanCard tabs component Added">
+      <option name="closed" value="true" />
+      <created>1764449622869</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764449622869</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +278,19 @@
     <MESSAGE value="questions section completed" />
     <MESSAGE value="accordion component completed" />
     <MESSAGE value="PlanCard component Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="PlanCard component Added" />
+    <MESSAGE value="PlanCard tabs component Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component Added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/sections/Plans/planGroups.js</url>
+          <line>65</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
