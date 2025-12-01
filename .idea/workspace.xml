@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component's keyboard navigation added">
-      <change afterPath="$PROJECT_DIR$/src/modules/generic/BaseComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/pxToRem.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component's animation added">
+      <change afterPath="$PROJECT_DIR$/src/sections/Banner/Banner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Banner/Banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/Banner/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/TabsCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/TabsCollection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +21,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="JSX Component Folder with styles.jsx.child.0" />
         <option value="JSX Component Folder with styles.jsx.child.1" />
         <option value="JSX Component Folder with styles" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -156,7 +157,7 @@
       <workItem from="1764411932715" duration="14041000" />
       <workItem from="1764528328963" duration="5356000" />
       <workItem from="1764533919212" duration="266000" />
-      <workItem from="1764592327272" duration="4045000" />
+      <workItem from="1764592327272" duration="5399000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -270,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764532894118</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="PlanCard tabs component's animation added">
+      <option name="closed" value="true" />
+      <created>1764621288513</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764621288513</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +302,7 @@
     <MESSAGE value="PlanCard component Added" />
     <MESSAGE value="PlanCard tabs component Added" />
     <MESSAGE value="PlanCard tabs component's keyboard navigation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component's keyboard navigation added" />
+    <MESSAGE value="PlanCard tabs component's animation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component's animation added" />
   </component>
 </project>
