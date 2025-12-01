@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component Added">
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component's keyboard navigation added">
+      <change afterPath="$PROJECT_DIR$/src/modules/generic/BaseComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/pxToRem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/modules/TabsCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/TabsCollection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Plans/planGroups.js" afterDir="false" />
     </list>
@@ -151,7 +154,9 @@
       <workItem from="1764354056104" duration="4382000" />
       <workItem from="1764407869239" duration="3016000" />
       <workItem from="1764411932715" duration="14041000" />
-      <workItem from="1764528328963" duration="4454000" />
+      <workItem from="1764528328963" duration="5356000" />
+      <workItem from="1764533919212" duration="266000" />
+      <workItem from="1764592327272" duration="4045000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -257,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764449622869</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="PlanCard tabs component's keyboard navigation added">
+      <option name="closed" value="true" />
+      <created>1764532894118</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764532894118</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,18 +292,7 @@
     <MESSAGE value="accordion component completed" />
     <MESSAGE value="PlanCard component Added" />
     <MESSAGE value="PlanCard tabs component Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component Added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/sections/Plans/planGroups.js</url>
-          <line>65</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="PlanCard tabs component's keyboard navigation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component's keyboard navigation added" />
   </component>
 </project>
