@@ -8,12 +8,16 @@ const SliderNavigation = (props) => {
         hasPagination = true,
         mode = '',      //'' | 'tile'
         className,
+        position = '',
+        isHiddenMobile,
     } = props
 
     return (
         <div
             className={classNames(className, 'slider-navigation', {
                 [`slider-navigation--${mode}`]: mode,
+                [`slider-navigation--${position}`]: position,
+                'hidden-mobile': isHiddenMobile,
             })}
             id={id}
             data-js-slider-navigation=""
@@ -25,6 +29,7 @@ const SliderNavigation = (props) => {
                 label="Previous slide"
                 isLabelHidden
                 SliderNavigation
+
                 extraAttrs={{"data-js-slider-previous-button" : ""}}
             />
             {hasPagination && (

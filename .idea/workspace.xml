@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="PlanCard tabs component's animation added">
-      <change afterPath="$PROJECT_DIR$/src/sections/Banner/Banner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Banner/Banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Banner/index.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="Banner component completed">
+      <change afterPath="$PROJECT_DIR$/src/components/MovieBannerCard/MovieBannerCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieBannerCard/MovieBannerCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieBannerCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/MoviesBanner/MoviesBanner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/MoviesBanner/MoviesBanner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sections/MoviesBanner/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AccordionGroup/AccordionGroup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AccordionGroup/AccordionGroup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/components/SliderNavigation/SliderNavigation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/global.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layouts/Content/Content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Content/Content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/movies.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/movies.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Banner/Banner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Banner/Banner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +169,8 @@
       <workItem from="1764411932715" duration="14041000" />
       <workItem from="1764528328963" duration="5356000" />
       <workItem from="1764533919212" duration="266000" />
-      <workItem from="1764592327272" duration="5399000" />
+      <workItem from="1764592327272" duration="6590000" />
+      <workItem from="1764673668325" duration="7654000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -279,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764621288513</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Banner component completed">
+      <option name="closed" value="true" />
+      <created>1764622651685</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764622651685</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +324,7 @@
     <MESSAGE value="PlanCard tabs component Added" />
     <MESSAGE value="PlanCard tabs component's keyboard navigation added" />
     <MESSAGE value="PlanCard tabs component's animation added" />
-    <option name="LAST_COMMIT_MESSAGE" value="PlanCard tabs component's animation added" />
+    <MESSAGE value="Banner component completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Banner component completed" />
   </component>
 </project>

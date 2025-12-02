@@ -18,7 +18,7 @@ export default function (props) {
                 <link rel="manifest" href="/site.webmanifest"/>
             </Head>
             <Header url={url} isFixed={isHeaderFixed}/>
-            <Content>
+            <Content isResetPaddingTop={isHeaderFixed}>
                 {children}
                 <Banner />
             </Content>
