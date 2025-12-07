@@ -3,7 +3,7 @@
   --tabsActiveButtonWidth: 0;
   --tabsActiveButtonOffsetLeft: 0;
   position: relative;
-  display: flex;
+  display: var(--tabsNavigationDisplay, flex);
   padding: var(--tabsNavigationPadding);
   border: var(--border);
   border-radius: var(--border-radius-m);

@@ -75,7 +75,7 @@ const Slider = (props) => {
             {hasScrollbarOnMobile && (
                 <div
                     className="slider__scrollbar visible-mobile"
-                    data-js-slider-scrollbar=""
+                    data-js-slider-scrollbar
                 />
             )}
         </div>

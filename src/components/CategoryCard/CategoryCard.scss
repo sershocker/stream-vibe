@@ -55,6 +55,11 @@
   &__title{
     font-size: inherit;
     font-weight: 600;
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    row-gap: fluid-to-laptop(4, 2);
   }
 
   &__icon{
