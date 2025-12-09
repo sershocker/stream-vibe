@@ -15,21 +15,23 @@ const defaultSliderParams = {
             spaceBetween: 20,
         },
         481:{
+            slidesPerView: 2,
+            slidesPerGroup: 2,
+        },
+        768: {
             slidesPerView: 3,
             slidesPerGroup: 3,
         },
-        768: {
-            slidesPerView: 4,
-            slidesPerGroup: 4,
-        },
         1024: {
             spaceBetween: 20,
-            slidesPerView: 5,
-            slidesPerGroup: 5,
+            slidesPerView: 4,
+            slidesPerGroup: 4,
             allowTouchMove: false,
         },
         1441: {
             spaceBetween: 30,
+            slidesPerView: 5,
+            slidesPerGroup: 5,
             allowTouchMove: false,
         }
     }

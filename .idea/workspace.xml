@@ -4,52 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="MovieCollections component added">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Comedy/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Comedy/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Comedy/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Drama/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Drama/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/Drama/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Badge/Badge.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Badge/Badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Badge/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Collections/Collections.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Collections/Collections.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Collections/collectionGroups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sections/Collections/index.js" afterDir="false" />
+    <list default="true" id="ce3478d1-9605-4ca9-9bb2-89dcbc77ce8c" name="Changes" comment="MovieCollections component completed">
+      <change afterPath="$PROJECT_DIR$/public/rating/stars_filled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/rating/stars_unfilled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/catalog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/must/must_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/must/must_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/must/must_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/must/must_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/releases/releases_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/releases/releases_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/releases/releases_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/releases/releases_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/releases/releases_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/trending/trending_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/trending/trending_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/trending/trending_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/trending/trending_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/categories/trending/trending_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/MovieCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/MovieCard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RatingView/RatingView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RatingView/RatingView.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RatingView/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Drama/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Adventure/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Adventure/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Adventure/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Adventure/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/categories/action/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/categories/Comedy/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/movie-banner/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/movie-banner/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Badge/Badge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Badge/Badge.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Badge/Badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Badge/Badge.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CategoryCard/CategoryCard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MovieBannerCard/MovieBannerCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MovieBannerCard/MovieBannerCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Icon/Icon.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Icon/Icon.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Slider/Slider.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tabs/Tabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Tabs/Tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs/Tabs.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs/TabsNavigation/TabsNavigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/movies.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/movies.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Categories/categoryItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Categories/categoryItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Hero/Hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/Hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Collections/Collections.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Collections/Collections.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Collections/Collections.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Collections/Collections.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Collections/collectionGroups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Collections/collectionGroups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +199,10 @@
       <workItem from="1764871696194" duration="882000" />
       <workItem from="1765018627742" duration="4975000" />
       <workItem from="1765048777559" duration="12486000" />
-      <workItem from="1765110906065" duration="1030000" />
+      <workItem from="1765110906065" duration="1965000" />
+      <workItem from="1765120740793" duration="4604000" />
+      <workItem from="1765186613550" duration="2813000" />
+      <workItem from="1765273405115" duration="14163000" />
     </task>
     <task id="LOCAL-00001" summary="variables, fonts, globals and configuration completed">
       <option name="closed" value="true" />
@@ -345,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764693796259</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="MovieCollections component added">
+      <option name="closed" value="true" />
+      <created>1765111977610</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765111977610</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +375,7 @@
     <MESSAGE value="Banner component completed" />
     <MESSAGE value="MovieBannerCard component completed" />
     <MESSAGE value="MovieCollections component added" />
-    <option name="LAST_COMMIT_MESSAGE" value="MovieCollections component added" />
+    <MESSAGE value="MovieCollections component completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="MovieCollections component completed" />
   </component>
 </project>
